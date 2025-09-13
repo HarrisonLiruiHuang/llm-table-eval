@@ -87,4 +87,4 @@ The experiment produces:
 
 **Dataset Source:** https://bird-bench.github.io/
 
-**Acknowledgments:** Special thanks to Sepanta Zeighami, Aditya Parameswaran, and Shreya Shankar for their guidance and support throughout this project!
+**Acknowledgments:** Special thanks to Sepanta Zeighami, Aditya Parameswaran, and Shreya Shankar at UC Berkeley EPIC Lab for their guidance and support throughout this project!
